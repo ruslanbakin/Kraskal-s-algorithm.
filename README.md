@@ -1,1 +1,1 @@
-# Prim-s-algorithm-or-Kraskal-s-algorithm.
+Поиск минимального остовного дерева, алгоритм Краскала.
